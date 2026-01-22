@@ -1,0 +1,16 @@
+.box-principale {
+    background-color: #f68b1f; /* Arancione */
+    padding: 30px;             /* Un po' più di spazio interno */
+    width: 340px;              /* <--- STRINGIAMO: da 450px a 340px così il testo riempie bene */
+    font-family: sans-serif;
+    font-size: 18px;           /* <--- TESTO PIÙ GRANDE come nell'immagine */
+    color: #333;               /* Grigio scuro invece che nero assoluto */
+}
+
+.rosso {
+    color: red;
+}
+
+p {
+    margin: 15px 0;            /* <--- RIDUCIAMO: da 25px a 15px per avvicinare le frasi */
+}
